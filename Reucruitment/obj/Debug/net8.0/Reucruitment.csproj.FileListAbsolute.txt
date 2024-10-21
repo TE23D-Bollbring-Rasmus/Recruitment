@@ -1,0 +1,14 @@
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\Recruitment\Reucruitment\bin\Debug\net8.0\Reucruitment.exe
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\Recruitment\Reucruitment\bin\Debug\net8.0\Reucruitment.deps.json
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\Recruitment\Reucruitment\bin\Debug\net8.0\Reucruitment.runtimeconfig.json
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\Recruitment\Reucruitment\bin\Debug\net8.0\Reucruitment.dll
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\Recruitment\Reucruitment\bin\Debug\net8.0\Reucruitment.pdb
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\Recruitment\Reucruitment\obj\Debug\net8.0\Reucruitment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\Recruitment\Reucruitment\obj\Debug\net8.0\Reucruitment.AssemblyInfoInputs.cache
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\Recruitment\Reucruitment\obj\Debug\net8.0\Reucruitment.AssemblyInfo.cs
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\Recruitment\Reucruitment\obj\Debug\net8.0\Reucruitment.csproj.CoreCompileInputs.cache
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\Recruitment\Reucruitment\obj\Debug\net8.0\Reucruitment.dll
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\Recruitment\Reucruitment\obj\Debug\net8.0\refint\Reucruitment.dll
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\Recruitment\Reucruitment\obj\Debug\net8.0\Reucruitment.pdb
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\Recruitment\Reucruitment\obj\Debug\net8.0\Reucruitment.genruntimeconfig.cache
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\Recruitment\Reucruitment\obj\Debug\net8.0\ref\Reucruitment.dll
